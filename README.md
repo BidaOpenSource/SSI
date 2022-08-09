@@ -1,7 +1,7 @@
 # Simulink Serial Interface
 Examples for MATLAB/Simulink/SimulinkRT serial interface connectivity.
 
-[How does it work?](tutorial\SSI.MD)
+[How does it work?](/tutorial/SSI.MD)
 
 ## How to use these examples?
 
